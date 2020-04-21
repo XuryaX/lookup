@@ -1,4 +1,5 @@
 Hi there,
+Screencast: https://www.youtube.com/watch?v=Kx6ayCulUck
 Thanks for checking out Lookup.
 Lets get to How to install lookup. Make sure you have a working internet connection.
 
